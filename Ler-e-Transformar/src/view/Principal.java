@@ -6,7 +6,6 @@
 	import controller.IArquivosController;
 
 	public class Principal {
-																		// OBS Dar um espaço no final de cada linha para ficar direitinho
 	public static void main(String[] args) {
 			
 		IArquivosController arqCont = new ArquivosController();
@@ -23,4 +22,3 @@
 		
 	}
 	}
-
